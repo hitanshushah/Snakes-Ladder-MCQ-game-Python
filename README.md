@@ -1,4 +1,4 @@
-# Snakes-Ladder-MCQ-game-Python
-It is a python based traditional interactive snakes and ladders game of 2-6 players with an additional feature of mcq questions. Each time you land on ladder you are asked a mcq and if you answer write you climb up the ladder and if you answer wrong you will stay on that box only.
-Use pycharm and tkinter based gui
-you will get to know the use of dictionary in python
+# Snake-and-Ladder
+Snake and ladder is a simple game consists of snakes and ladders. The object of the game is to navigate one's game piece, according to die rolls, from the start (bottom square) to the finish (top square), helped or hindered by ladders and snakes respectively.
+
+This is a python based version of this game which consist of GUI which is designed using Python's tkinter library
